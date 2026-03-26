@@ -98,7 +98,6 @@ In this task, I used tools like `nslookup` to query servers manually.
 *What is the IP address for the A record of www.website.thm?*  
 *10.10.10.10*
 
-📸 Lab Evidence
 
 ![][image1]
 
